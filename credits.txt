@@ -1,0 +1,15 @@
+SUNDER: CREDITS
+
+Music
+"Juggernaut" by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+  Source: https://www.scottbuckley.com.au/library/juggernaut/
+  Licence: CC-BY 4.0, https://creativecommons.org/licenses/by/4.0/
+  Changes: none beyond the conversion below. In the game it is played quieter and
+  low-passed until the Warden is enraged, and dipped or muffled at moments of the fight.
+"A Dragon's Lullaby (2023 Remaster)" by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+  Source: https://www.scottbuckley.com.au/library/a-dragons-lullaby-2023/
+  Licence: CC-BY 4.0, https://creativecommons.org/licenses/by/4.0/
+  Changes: none beyond the conversion below.
+
+Each track is listed as: title, author, source, licence, changes.
+Every track is converted to Ogg Vorbis and evened out in loudness; any other change is noted with the track.
